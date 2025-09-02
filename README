@@ -6,6 +6,7 @@
 - [X] Make sure the player cannot walk outside the play area (basic collisions)
 - [X] Add a simple environment (ground + walls)
 - [ ] Ensure the camera follows the player while moving
+- [ ] Allow controller
 
 ---
 
