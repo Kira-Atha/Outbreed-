@@ -1,18 +1,24 @@
 # Outbreed - Roadmap
 
-## Phase 1 – First Prototype (Core Player Controls)
+## Phase 1 – Core Gameplay Prototype
 
-- [ ] Create a `PlayerMovement` script (basic 2D movement with the new Input System)
-- [ ] Add a Rigidbody2D and Collider2D to the player
-- [ ] Make the player sprite move around the scene with keyboard input
-- [ ] Add a Cinemachine Virtual Camera that follows the player
-- [ ] Create a simple ground (tilemap or placeholder square) to walk on
-- [ ] Add collision boundaries so the player cannot leave the play area
+- [ ] Add a player character that can move in four directions
+- [ ] Make sure the player cannot walk outside the play area (basic collisions)
+- [ ] Add a simple environment (ground + walls)
+- [ ] Ensure the camera follows the player while moving
 
 ---
 
-## Phase 2 – Interaction Basics
+## Phase 2 – First Interactions
 
-- [ ] Create an `Interactable` component (for chests, terminals, doors)
-- [ ] Allow the player to press a key (ex: `E`) to interact
-- [ ] Show a placeholder message in the Console or UI when interaction happens
+- [ ] Add at least one object the player can interact with (example: chest, door, terminal)
+- [ ] Show a simple feedback when the player interacts (text or visual cue)
+- [ ] Prevent interaction when the player is too far away
+
+---
+
+## Phase 3 – Preparing Creature System
+
+- [ ] Define a placeholder for creatures (Outlings) that can appear in the world
+- [ ] Allow the player to "collect" or "recruit" a creature
+- [ ] Show the player’s current creatures in a simple UI list
