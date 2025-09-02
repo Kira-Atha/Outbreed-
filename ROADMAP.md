@@ -2,9 +2,9 @@
 
 ## Phase 1 – Core Gameplay Prototype
 
-- [ ] Add a player character that can move in four directions
-- [ ] Make sure the player cannot walk outside the play area (basic collisions)
-- [ ] Add a simple environment (ground + walls)
+- [X] Add a player character that can move in eight directions
+- [X] Make sure the player cannot walk outside the play area (basic collisions)
+- [X] Add a simple environment (ground + walls)
 - [ ] Ensure the camera follows the player while moving
 
 ---
