@@ -6,7 +6,8 @@
 - [X] Make sure the player cannot walk outside the play area (basic collisions)
 - [X] Add a simple environment (ground + walls)
 - [X] Ensure the camera follows the player while moving
-- [] Allow controller
+- [X] Allow controller
+- [] Add looping background music (BGM)
 
 ---
 
