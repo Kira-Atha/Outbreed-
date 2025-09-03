@@ -7,12 +7,12 @@
 - [X] Add a simple environment (ground + walls)
 - [X] Ensure the camera follows the player while moving
 - [X] Allow controller
-- [] Add looping background music (BGM)
+- [X] Add looping background music (BGM)
+- [X] Prepare first Audio Mixer
 
 ---
 
 ## Phase 2 – First Interactions
-
 - [ ] Add at least one object the player can interact with (example: chest, door, terminal)
 - [ ] Show a simple feedback when the player interacts (text or visual cue)
 - [ ] Prevent interaction when the player is too far away
