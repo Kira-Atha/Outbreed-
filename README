@@ -8,14 +8,15 @@
 - [X] Ensure the camera follows the player while moving
 - [X] Allow controller
 - [X] Add looping background music (BGM)
-- [X] Prepare first Audio Mixer
+- [X] Prepare first Audio Mixer ( Music/SFX -> Audio Manager )
 
 ---
 
 ## Phase 2 – First Interactions
-- [ ] Add at least one object the player can interact with (example: chest, door, terminal)
-- [ ] Show a simple feedback when the player interacts (text or visual cue)
-- [ ] Prevent interaction when the player is too far away
+- [X] Add at least one object the player can interact with (square)
+- [X] Show a simple feedback when the player interacts (swap squares (red <-> blue))
+- [X] Prevent interaction when the player is too far away
+- [ ] Show a simple feedback when the player interacts (text)
 
 ---
 
@@ -24,3 +25,7 @@
 - [ ] Define a placeholder for creatures (Outlings) that can appear in the world
 - [ ] Allow the player to "collect" or "recruit" a creature
 - [ ] Show the player’s current creatures in a simple UI list
+
+
+## Phase ?? - 
+- [ ] Use prefabs instead of game objects
