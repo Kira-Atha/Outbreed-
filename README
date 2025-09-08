@@ -16,16 +16,22 @@
 - [X] Add at least one object the player can interact with (square)
 - [X] Show a simple feedback when the player interacts (swap squares (red <-> blue))
 - [X] Prevent interaction when the player is too far away
-- [ ] Show a simple feedback when the player interacts (text)
+- [X] Show a simple feedback when the player interacts (text)
 
 ---
 
-## Phase 3 – Preparing Creature System
+## Phase 3 - Beta UI
+- [X] Build border UX
+- [ ] Build start menu
 
+---
+
+## Phase ?? – Preparing Creature System
 - [ ] Define a placeholder for creatures (Outlings) that can appear in the world
 - [ ] Allow the player to "collect" or "recruit" a creature
 - [ ] Show the player’s current creatures in a simple UI list
 
+---
 
-## Phase ?? - 
+## Phase ?? - Reusable
 - [ ] Use prefabs instead of game objects
