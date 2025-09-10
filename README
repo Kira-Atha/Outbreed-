@@ -25,12 +25,13 @@ Phase 3 – Beta UI
 [X] Create a start menu
 [X] Add a navigable menu system (Stats, Bag, Equip, Save, Settings, Quit)
 [X] Wire up start-menu buttons to event handlers
-[ ] Design first stats panel (open/close)
-[ ] Design first bag panel (open/close)
-[ ] Design first equip panel (open/close)
-[ ] Design first save panel (open/close)
-[ ] Design first settings panel (open/close)
-[ ] Design first quit panel (popup validation => save ? save : quit game)
+[X] Design first stats panel (open/close)
+[X] Design first bag panel (open/close)
+[X] Design first equip panel (open/close)
+[X] Design first save panel (open/close + buttons group)
+[X] Design first settings panel (open/close)
+[X] Design first quit panel (popup validation => save ? save : quit game)
+[X] Change cursor focus panel menu -> save || quit
 [ ] Design HP bar and permanent displays 
 [ ] Add and substract HP
 
