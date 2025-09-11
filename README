@@ -32,7 +32,7 @@ Phase 3 – Beta UI
 [X] Design first settings panel (open/close)
 [X] Design first quit panel (popup validation => save ? save : quit game)
 [X] Change cursor focus panel menu -> save || quit
-[ ] Design HP bar and permanent displays 
+[X] Design HP bar
 [ ] Add and substract HP
 
 ---
