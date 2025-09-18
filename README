@@ -11,7 +11,6 @@ Phase 1 – Core Gameplay Prototype
 [X] Set up the initial Audio Mixer (Music/SFX → Audio Manager)
 
 ---
-
 Phase 2 – Basic Interactions
 [X] Add at least one interactable object (test square)
 [X] Provide simple visual feedback on interaction (swap red <-> blue squares)
@@ -19,7 +18,6 @@ Phase 2 – Basic Interactions
 [X] Display text feedback on interaction
 
 ---
-
 Phase 3 – Beta UI
 [X] Implement a basic dialogue UI
 [X] Create a start menu
@@ -37,17 +35,24 @@ Phase 3 – Beta UI
 
 ---
 Phase 4 – Asset Pipeline Automation
-
 [X] Standardize sprite import settings automatically (consistent visual style)
 [X] Automatically slice sprites into grids (e.g., 3×3 for tiles)
 [X] Automatically generate ready-to-use tile palettes (Ground, Wall, Water, etc.)
 [X] Automatically configure props and icons as single sprites
 
 ---
-Phase 5 – Creature System (Foundations)
+Phase 5 – Biomes
+[X] Create base wall and floor tiles for multiple environments (dirt, rock, wood, metal, water, snow, magma, etc.)
+[X] Ensure each biome has consistent wall and floor variants
+[X] Prepare tiles to be used seamlessly in Unity’s Tilemap system
+[X] Establish a foundation for environment variety (future expansion: transitions, decorative props, advanced details)
+
+---
+Phase 6 – Creature System (Foundations)
 [ ] Define placeholders for creatures (Outlings) appearing in the world
 [ ] Allow the player to collect/recruit a creature
 [ ] Display the player’s current creatures in a simple UI list
 
-Phase 6 – Reusability & Optimization
+---
+Phase 7 – Reusability & Optimization
 [ ] Replace direct GameObjects with Prefabs for better reusability and scalability
