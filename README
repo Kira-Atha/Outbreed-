@@ -36,11 +36,18 @@ Phase 3 – Beta UI
 [X] Responsive HP bar
 
 ---
+Phase 4 – Asset Pipeline Automation
 
-Phase 4 – Creature System (Foundations)
+[X] Standardize sprite import settings automatically (consistent visual style)
+[X] Automatically slice sprites into grids (e.g., 3×3 for tiles)
+[X] Automatically generate ready-to-use tile palettes (Ground, Wall, Water, etc.)
+[X] Automatically configure props and icons as single sprites
+
+---
+Phase 5 – Creature System (Foundations)
 [ ] Define placeholders for creatures (Outlings) appearing in the world
 [ ] Allow the player to collect/recruit a creature
 [ ] Display the player’s current creatures in a simple UI list
 
-Phase 5 – Reusability & Optimization
+Phase 6 – Reusability & Optimization
 [ ] Replace direct GameObjects with Prefabs for better reusability and scalability
