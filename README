@@ -48,11 +48,17 @@ Phase 5 – Biomes
 [X] Establish a foundation for environment variety (future expansion: transitions, decorative props, advanced details)
 
 ---
-Phase 6 – Creature System (Foundations)
+Phase 6 – Animations
+[ ] Create player sprite sheet with eight walking directions
+[ ] Implement walk cycles and idle animations
+[ ] Set up Animator Controller with transitions
+
+---
+Phase 7 – Creature System (Foundations)
 [ ] Define placeholders for creatures (Outlings) appearing in the world
 [ ] Allow the player to collect/recruit a creature
 [ ] Display the player’s current creatures in a simple UI list
 
 ---
-Phase 7 – Reusability & Optimization
+Phase 8 – Reusability & Optimization
 [ ] Replace direct GameObjects with Prefabs for better reusability and scalability
