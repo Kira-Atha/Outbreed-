@@ -549,8 +549,7 @@ h3 {
 }
 
 .section-heading > p:last-child,
-.subject__copy > p,
-.manifesto > p:last-child {
+.subject__copy > p {
     color: #abc0b0;
     font-size: 1.05rem;
 }
@@ -888,27 +887,6 @@ h3 {
     max-width: 45rem;
     margin: 0;
     color: var(--text-dim);
-}
-
-.manifesto {
-    position: relative;
-    margin-block: clamp(4rem, 9vw, 8rem);
-    padding: clamp(2.5rem, 7vw, 6rem);
-    border: 1px solid rgba(184, 48, 255, 0.34);
-    background:
-        radial-gradient(circle at 85% 15%, rgba(184, 48, 255, 0.12), transparent 28rem),
-        linear-gradient(145deg, rgba(19, 48, 29, 0.64), rgba(7, 16, 11, 0.82));
-    clip-path: polygon(1.2rem 0, 100% 0, 100% calc(100% - 1.2rem), calc(100% - 1.2rem) 100%, 0 100%, 0 1.2rem);
-}
-
-.manifesto h2 {
-    max-width: 13ch;
-    color: var(--violet-soft);
-}
-
-.manifesto > p:last-child {
-    max-width: 48rem;
-    margin-bottom: 0;
 }
 
 .archive-grid {
