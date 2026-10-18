@@ -906,8 +906,8 @@ h3 {
 
 .archive-card > img {
     inset: 50% auto auto 50%;
-    width: 14rem;
-    height: 14rem;
+    width: 12rem;
+    height: 12rem;
     transform: translate(-50%, -58%);
 }
 
