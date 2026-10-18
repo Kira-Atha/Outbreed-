@@ -900,6 +900,13 @@ h3 {
     margin: 0;
 }
 
+.archive-card > img {
+    inset: 50% auto auto 50%;
+    width: 14rem;
+    height: 14rem;
+    transform: translate(-50%, -58%);
+}
+
 .archive-card .media-fallback {
     padding-bottom: 4.5rem;
 }
