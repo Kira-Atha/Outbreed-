@@ -776,7 +776,7 @@ h3 {
 .family-card {
     position: relative;
     overflow: hidden;
-    min-height: 27rem;
+    min-height: 30rem;
     padding: 1rem;
     border: 1px solid var(--line);
     background: linear-gradient(160deg, rgba(19, 48, 29, 0.8), rgba(7, 16, 11, 0.7));
@@ -791,7 +791,7 @@ h3 {
 .family-card__media {
     position: relative;
     display: grid;
-    min-height: 11rem;
+    min-height: 14rem;
     margin-bottom: 1.2rem;
     place-items: center;
     border: 1px solid rgba(128, 255, 145, 0.12);
@@ -799,7 +799,7 @@ h3 {
 }
 
 .family-card__media img {
-    padding: 0.75rem;
+    padding: 0.35rem;
 }
 
 .family-card__mark {
