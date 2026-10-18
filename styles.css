@@ -691,6 +691,10 @@ h3 {
     min-height: 34rem;
 }
 
+.media-frame--portrait > img {
+    object-position: center bottom;
+}
+
 [data-media] > img {
     position: absolute;
     z-index: 2;
